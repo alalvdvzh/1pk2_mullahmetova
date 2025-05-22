@@ -3,7 +3,7 @@
     using System;
 
     public class Program
-    {
+    {//Создать Метод ArrayGeneration не возвращающий значения, принимает целое число n, выводит наконсоль сгенерированный массив размерности n*n//
         public static void Main()
         {
             ArrayGeneration(5); // Пример вызова метода с n = 5
